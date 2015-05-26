@@ -3,11 +3,14 @@
 Testing with Jasmine
 ---------------------
 
-Jasmine is a testing framework
+
+Testing Framework used: Jasmine
+
+
+Setting up the testing framework :
+----------------------------------
 
 Download latest build https://github.com/jasmine/jasmine/releases
-
-To use Jasmine
 
 - create a directory with appropriate name, e.g JavaScript-JavaBuzz.
 - create a lib directory

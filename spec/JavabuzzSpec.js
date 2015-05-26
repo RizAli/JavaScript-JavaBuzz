@@ -9,4 +9,7 @@ describe('Javabuzz', function(){
       expect(javabuzz.isDivisibleByThree(3)).toBe(true);
     });
   });
+
+
+
 });
