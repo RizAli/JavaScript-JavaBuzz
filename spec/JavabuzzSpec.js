@@ -38,6 +38,12 @@ describe('Javabuzz', function(){
     });
   });
 
+  describe('knows if a number', function(){
+    it('is not divisible by 3, 5, 15 and returns the same number', function(){
+      expect(javabuzz.number(1)).toBe(1)
+    });
+  });
+
   describe('when playing, says', function(number){
     it('"Java" when a number is divisible by 3', function(){
       expect (javabuzz.says(3)).toEqual("Java");
@@ -48,7 +54,7 @@ describe('Javabuzz', function(){
     });
 
     it('"FizzBuzz" when a number is divisible by 15', function(){
-      expect(javabuzz.says(15)).toEqual("FizzBuzz");
+      expect(javabuzz.says(15)).toEqual("JavaBuzz");
     });
   });
 });
