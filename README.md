@@ -1,9 +1,9 @@
 # Java Buzz
 What is it:
 
-Java Buzz is adopbted from a game Fizzbuzz. Fizzbuzz is a group word game for children to teach them about division.
+Java Buzz is adopted from a game Fizzbuzz. Fizzbuzz is a group word game for children to teach them about division. Players take turns to count incrementally, replacing any number divisible by three with the word "fizz", and any number divisible by five with the word "buzz"and Number divisible by both becomes Fizzbuzz [1].
 
-Players take turns to count incrementally, replacing any number divisible by three with the word "fizz", and any number divisible by five with the word "buzz"and Number divisible by both becomes Fizzbuzz [1].
+Rules for JavaBuzz Game:
 
 if the number is divisible by 3 it says "Java"
 if the number is divisible by 5 it says "Buzz"
