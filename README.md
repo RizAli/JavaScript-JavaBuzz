@@ -15,7 +15,7 @@ Testing with Jasmine
 
 
 Testing Framework used: Jasmine
-
+![Jasmine](https://raw.githubusercontent.com/RizAli/JavaScript-JavaBuzz/master/images/JavaBuzzJasmine.png)
 
 Setting up the testing framework :
 ----------------------------------
